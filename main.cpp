@@ -1,3 +1,6 @@
+//Samira Hazim A00839456
+//Mariel Alvarez A01198828
+
 #include <iostream>
 #include <fstream>
 #include <sstream>
